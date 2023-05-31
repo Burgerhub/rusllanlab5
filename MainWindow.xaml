@@ -68,7 +68,7 @@ Grid.Column="1"
 Orientation="Horizontal"
 HorizontalAlignment="Center" Margin="40,0,160,0" Width="172" >
             <Button x:Name="BtnOK" Content="OK"
-Width="80" Height="24" Margin="3"
+Width="80" Height="24" Margin="2"
 Background="#FF3985B0"
 Foreground="White" IsDefault="True"
 Click="BtnOKClick" />
